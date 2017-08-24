@@ -1,4 +1,7 @@
 # hello-world
 this is my first repository
 
-I am so stressful
+
+
+this is difficult at the very beginning, but it is fine!
+
